@@ -1,0 +1,16 @@
+{
+  "name": "kafka-preducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.2",
+    "nodemon": "^2.0.20"
+  }
+}
